@@ -7,7 +7,7 @@ This tool needs esentral windows application installed for extraction
 1. Download and extract app.zip folder
 2. Run the extractApp shortcut
 3. It will open command prompt and a graphical user interface
-![image](https://user-images.githubusercontent.com/103571608/191654353-e46b4d80-a16e-409a-b5a1-e65ba4ebf99e.png)
+![image](https://user-images.githubusercontent.com/103571608/191654353-e46b4d80-a16e-409a-b5a1-e65ba4ebf99e.png | height=100)
 
 **NOTE**: This program only applies to Windows.
 Program is bundled executable, Python is not required to be installed. 
