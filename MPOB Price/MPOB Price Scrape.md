@@ -2,7 +2,7 @@
 A tool to scrape prices from [MPOB Website](https://bepi.mpob.gov.my/admin2/price_local_daily_view_cpo_msia.php?more=Y&jenis=1Y&tahun=2008) to csv file
 ## Chromedriver
 This tool needs chromedriver installed for web scraping
-- Install from [here](https://www.e-sentral.com/download_installer](https://chromedriver.chromium.org/downloads)
+- Install from [here](https://www.e-sentral.com/download_installer](https://chromedriver.chromium.org/downloads))
 ## Program Installation 
 1. Download main.py and run
 **NOTE**: This program only applies to Windows.
