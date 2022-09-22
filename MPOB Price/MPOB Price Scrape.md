@@ -4,7 +4,7 @@ A tool to scrape prices from [MPOB Website](https://bepi.mpob.gov.my/admin2/pric
 This tool needs chromedriver installed for web scraping
 - Install from [here]([https://www.e-sentral.com/download_installer](https://chromedriver.chromium.org/downloads))
 ## Program Installation 
-1. Download main.oy and run
+1. Download main.py and run
 **NOTE**: This program only applies to Windows.
 ## Requirements
 - Python 3.9.12
