@@ -1,0 +1,13 @@
+easygui==0.98.3
+numpy==1.23.1
+opencv-python==4.6.0.66
+Pillow==8.2.0
+PyAutoGUI==0.9.53
+pytesseract==0.3.9
+tkinterdnd2==0.3.0
+pyscreenshot==3.0
+pandas==1.4.3
+openpyxl==3.0.10
+fuzzywuzzy==0.18.0
+python-levenshtein==0.12.2
+xlsxwriter==3.0.3
