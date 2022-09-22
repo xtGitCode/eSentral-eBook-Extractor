@@ -14,6 +14,7 @@ Program is bundled executable, Python is not required to be installed.
 - Screenshot each ebook pages directly from eSentral App
 - Convert screenshotted image to xlsx file and txt file
 - Format data from ebook to table data on xlsx file
+- Control how many and which pages you want to extract
 ## Features Usage 
 For usage guidelines and more information, please read extractApp Guide.pdf 
 ## Navigation
