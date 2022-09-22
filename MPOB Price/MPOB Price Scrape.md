@@ -11,7 +11,7 @@ This tool needs chromedriver installed for web scraping
 - selenium 4.3.0
 ## Key Features
 - Control how many and which years to scrape
-- Scrape daily prices for each years and output data in xlsx file
+- Scrape daily prices for each years and output data in csv file
 ## Usage Guidelines
 - open main.ini file
 - copy chromedriver path and change in file 
@@ -20,6 +20,6 @@ This tool needs chromedriver installed for web scraping
 - change directory to folder where program is stored
 - run "python main.py" 
 - to specify year start and end input "python main.py 2020 2022" (this will scrape from year 2020 to 2022) 
-- to specify year start "python main.oy 2015" (this will scrape from year 2015 to the latest year)
-- find xlsx file stored in folder 'data', different files for each years
+- to specify year start "python main.py 2015" (this will scrape from year 2015 to the latest year)
+- find csv file stored in folder 'data', different files for each years
 
