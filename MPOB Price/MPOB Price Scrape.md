@@ -13,6 +13,9 @@ This tool needs chromedriver installed for web scraping
 - Control how many and which years to scrape
 - Scrape daily prices for each years and output data in xlsx file
 ## Usage Guidelines
+- open main.ini file
+- copy chromedriver path and change in file 
+- save main.ini
 - open anaconda prompt
 - change directory to folder where program is stored
 - run "python main.py" 
